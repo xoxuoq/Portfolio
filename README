@@ -1,0 +1,36 @@
+# 🌐 Personal Portfolio Website
+
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my work, skills, and experience as a web developer. The goal of this project was to create a clean, responsive, and interactive website to represent myself online professionally.
+
+## 🚀 Features
+
+- Responsive design for mobile, tablet, and desktop
+- Smooth scrolling and navigation
+- Interactive elements with JavaScript
+- Projects showcase section
+- Contact form (with email integration if configured)
+
+## 🛠️ Built With
+
+- HTML5 — Semantic and accessible markup
+- CSS3 — Responsive layout with Flexbox/Grid, custom styling
+- JavaScript — DOM manipulation, form validation, interactive UI features
+
+## 📸 Screenshots
+
+(You can add screenshots here if you have them)
+
+## 💡 My Experience Building This
+
+Working on this portfolio helped me understand how different frontend technologies come together to create a complete, user-friendly experience. I improved my skills in responsive design and learned how to manage page layout using modern CSS techniques like Grid and Flexbox. JavaScript was used to make the site more dynamic—for example, I implemented features like a sticky header, a responsive menu toggle, and simple animations on scroll.
+
+This project also gave me practical experience with:
+- Organizing code files and assets effectively
+- Designing user-centric interfaces
+- Debugging layout and interaction issues across different screen sizes
+
+## 📂 How to Use / Run Locally
+
+- See the link of my website here
+
+
